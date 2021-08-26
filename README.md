@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🌱 I’m currently learning Data Science and AI
+- 👯 I’m looking to collaborate on AI Projects
 - 📫 How to reach me: taynakehrle@icloud.com
 
 
